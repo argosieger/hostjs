@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rentall-client-react/static/css/main.88a23c18.chunk.css",
+    "main.js": "/rentall-client-react/static/js/main.0b177bea.chunk.js",
+    "main.js.map": "/rentall-client-react/static/js/main.0b177bea.chunk.js.map",
+    "runtime-main.js": "/rentall-client-react/static/js/runtime-main.48965311.js",
+    "runtime-main.js.map": "/rentall-client-react/static/js/runtime-main.48965311.js.map",
+    "static/css/2.89cf5bbf.chunk.css": "/rentall-client-react/static/css/2.89cf5bbf.chunk.css",
+    "static/js/2.8f50ebb3.chunk.js": "/rentall-client-react/static/js/2.8f50ebb3.chunk.js",
+    "static/js/2.8f50ebb3.chunk.js.map": "/rentall-client-react/static/js/2.8f50ebb3.chunk.js.map",
+    "index.html": "/rentall-client-react/index.html",
+    "static/css/2.89cf5bbf.chunk.css.map": "/rentall-client-react/static/css/2.89cf5bbf.chunk.css.map",
+    "static/css/main.88a23c18.chunk.css.map": "/rentall-client-react/static/css/main.88a23c18.chunk.css.map",
+    "static/js/2.8f50ebb3.chunk.js.LICENSE.txt": "/rentall-client-react/static/js/2.8f50ebb3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/rentall-client-react/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48965311.js",
+    "static/css/2.89cf5bbf.chunk.css",
+    "static/js/2.8f50ebb3.chunk.js",
+    "static/css/main.88a23c18.chunk.css",
+    "static/js/main.0b177bea.chunk.js"
+  ]
+}
